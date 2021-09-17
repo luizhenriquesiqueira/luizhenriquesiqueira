@@ -2,5 +2,5 @@
 
 - 📕 hoje sou estudante de Análise e desenvolvimento de sistemas.
 - 💻 Desenvolvedor Front-end em treinamento.
-- 🧔🏻 Pronome (ele/dele )
+- 🧔🏻 Pronome (ele/dele)
 - 📩 Email: lhlsiqueira@gmail.com
