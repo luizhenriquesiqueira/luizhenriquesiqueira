@@ -1,7 +1,6 @@
 ### Olá, eu sou Luiz Henrique Siqueira!
 
-- 📕 Estudante de Análises e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Web Jr.
+- 💻 Desenvolvedor Front End.
 - 🧔🏻 Pronome: ele/dele.
 - 📩 Email: lhlsiqueira@gmail.com
 
