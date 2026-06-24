@@ -1,7 +1,6 @@
 ### Olá, eu sou Luiz Henrique Siqueira!
 
 - 💻 Desenvolvedor Front End.
-- 🧔🏻 Pronome: ele/dele.
 - 📩 Email: lhlsiqueira@gmail.com
 
 ##
